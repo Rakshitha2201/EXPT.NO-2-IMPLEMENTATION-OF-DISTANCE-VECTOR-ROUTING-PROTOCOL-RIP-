@@ -13,8 +13,9 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # NETWORK DIAGRAM:
-<img width="1034" height="1600" alt="WhatsApp Image 2026-09-07 at 1 31 11 PM" src="https://github.com/user-attachments/assets/0611dc25-7275-461b-b04e-22f8a526285c" />
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 11 PM (1)" src="https://github.com/user-attachments/assets/0f441009-584c-4020-8d37-d86cc5ba1265" />
+<img width="1096" height="1600" alt="WhatsApp Image 2026-09-07 at 1 31 12 PM (2)" src="https://github.com/user-attachments/assets/6587588b-337a-4037-b8e1-48e8ef0b636e" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM" src="https://github.com/user-attachments/assets/8126edb5-37de-4aa3-96ec-62e7c488f6d1" />
+
 
 
 # PROCEDURE:
@@ -86,8 +87,10 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
-<img width="1600" height="1420" alt="WhatsApp Image 2026-09-07 at 1 31 12 PM" src="https://github.com/user-attachments/assets/a95ae755-768e-4778-800c-f6283cbf65b1" />
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 12 PM (1)" src="https://github.com/user-attachments/assets/0f38f993-3513-42fc-81df-fb374953959a" />
+
+
+<img width="1600" height="1099" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM (1)" src="https://github.com/user-attachments/assets/9205d551-b565-4007-ae34-275bfd92ff1a" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-07 at 1 31 13 PM (2)" src="https://github.com/user-attachments/assets/86224159-dfe5-4093-84ca-ae36b8171bd2" />
 
 # RESULT:
 
